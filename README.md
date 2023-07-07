@@ -14,7 +14,7 @@ A simple microfinance interest calculator script for calculating simple interest
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/microfinance-IBM-.git
+git clone https://github.com/Muddejosh/microfinance-IBM-.git
 Change to the project's directory:
 
 cd microfinance-interest-calculator
